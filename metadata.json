@@ -1,0 +1,6 @@
+{
+  "name": "小学生数学知识点提前学",
+  "description": "专为小学生设计的数学知识点自主学习与提前学平台，涵盖数与代数、图形与几何、统计与概率、综合与实践，配备240+个知识点三级折叠导航、打卡进度与交互式学习。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
